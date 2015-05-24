@@ -1,0 +1,4 @@
+*.iml
+.idea/
+
+src/resources/params.json
